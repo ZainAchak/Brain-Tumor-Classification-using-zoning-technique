@@ -4,10 +4,10 @@ Brain Tumor classifcation system, from all the Tumor has been extracted and then
 
 ![alt text](https://github.com/ZainAchak/Brain-Tumor-Classification-using-zoning-technique/blob/main/0Tumor.png)
 
-# Brain Tumor Classification Improvement
+## Brain Tumor Classification Improvement
 ![alt text](https://github.com/ZainAchak/Brain-Tumor-Classification-using-zoning-technique/blob/main/Recall.jpg)
 
-#Confusion Matrix
+## Confusion Matrix
 ![alt text](https://github.com/ZainAchak/Brain-Tumor-Classification-using-zoning-technique/blob/main/Confusion%20matrix.png)
 
 
